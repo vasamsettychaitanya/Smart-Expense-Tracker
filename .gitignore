@@ -1,0 +1,7 @@
+target/
+.idea/
+.vscode/
+*.iml
+src/main/resources/db.properties
+.env
+.DS_Store
